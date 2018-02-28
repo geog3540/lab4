@@ -1,1 +1,1 @@
-# lab4
+GEOG 3540 - Introduction to Geographic Visualization - Lab 4
